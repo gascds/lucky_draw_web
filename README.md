@@ -1,1 +1,1 @@
-# lucky_draw_web
+# lucky_draw_web (VueJs)
